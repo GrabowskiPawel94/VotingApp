@@ -1,0 +1,9 @@
+Client/.vscode/*
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+.vs/
+API/src/Voting.Web.API/appsettings.Development.json
