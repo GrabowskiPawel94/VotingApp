@@ -1,7 +1,6 @@
 ﻿using FluentValidation.TestHelper;
 using Microsoft.EntityFrameworkCore;
 using NUnit.Framework;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Voting.Application.Voters.Commands.AddVoter;

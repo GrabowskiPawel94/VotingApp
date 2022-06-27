@@ -5,7 +5,7 @@ using Voting.Persistence;
 
 namespace Voting.ApplicationTests
 {
-    public abstract class TestWithDatabase
+    public abstract class BaseTestFixture
     {
         protected VoteDbContext _voteDbContext;
         [SetUp]
